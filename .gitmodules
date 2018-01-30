@@ -2,3 +2,7 @@
 	path = l10n-spain
 	url = https://github.com/OCA/l10n-spain.git
 	branch = 11.0
+[submodule "watchman"]
+	path = watchman
+	url = https://github.com/PESOL/watchman.git
+	branch = master
