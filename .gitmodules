@@ -6,3 +6,8 @@
 	path = watchman
 	url = https://github.com/PESOL/watchman.git
 	branch = master
+
+[submodule "OCA/contract"]
+	path = OCA/contract
+	url = git@github.com:OCA/contract.git
+	branch = 11.0
