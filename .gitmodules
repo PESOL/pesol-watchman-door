@@ -10,3 +10,8 @@
 	path = OCA/contract
 	url = git@github.com:OCA/contract.git
 	branch = 11.0
+
+[submodule "OCA/l10n-spain"]
+	path = OCA/l10n-spain
+	url = git@github.com:OCA/l10n-spain.git
+	branch = 11.0
