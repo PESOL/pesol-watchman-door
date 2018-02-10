@@ -1,8 +1,3 @@
-[submodule "odoo/watchman"]
-	path = odoo/source/watchman
-	url = https://github.com/PESOL/watchman.git
-	branch = master
-
 [submodule "odoo/OCA/contract"]
 	path = odoo/OCA/contract
 	url = git@github.com:OCA/contract.git
@@ -11,4 +6,8 @@
 [submodule "odoo/OCA/l10n-spain"]
 	path = odoo/OCA/l10n-spain
 	url = git@github.com:OCA/l10n-spain.git
+	branch = 11.0
+[submodule "odoo/watchman"]
+	path = odoo/watchman
+	url = git@github.com:PESOL/watchman.git
 	branch = 11.0
