@@ -1,0 +1,17 @@
+db/*
+odoo/addons/*
+odoo/data/*
+odoo/log/*
+!odoo/log/.log
+odoo/start_odoo.sh
+odoo/etc/*
+!odoo/etc/odoo-server.conf.tmpl
+# Compiled formats, cache, temporary files, git garbage
+**.~
+**.mo
+**.py[co]
+**.egg-info
+**.orig
+
+# Editor garbage folders
+.vscode
