@@ -1,11 +1,9 @@
 db/*
-odoo/addons/*
-odoo/data/*
+data/*
 odoo/log/*
 !odoo/log/.log
 odoo/start_odoo.sh
-odoo/etc/*
-!odoo/etc/odoo-server.conf.tmpl
+odoo/etc/odoo-server.conf
 # Compiled formats, cache, temporary files, git garbage
 **.~
 **.mo
