@@ -27,7 +27,7 @@ log_db = False
 log_db_level = warning
 log_handler = :INFO
 log_level = info
-logfile = /opt/odoo/log/odoo-server.log
+#logfile = /opt/odoo/log/odoo-server.log
 logrotate = True
 addons_path:
  /opt/watchman,

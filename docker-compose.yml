@@ -6,7 +6,7 @@ services:
       - 8069:8069
       - 8079:8079
     volumes:
-      - .:/opt
+      - ./odoo:/opt/odoo
     depends_on:
       - postgres
       - wdb
