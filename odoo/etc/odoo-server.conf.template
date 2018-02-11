@@ -1,5 +1,5 @@
 [options]
-data_dir = /opt/data
+data_dir = /opt/odoo/data
 db_host = postgres
 db_maxconn = 64
 db_name = False
@@ -30,9 +30,9 @@ log_level = info
 #logfile = /opt/odoo/log/odoo-server.log
 logrotate = True
 addons_path:
- /opt/watchman,
- /opt/OCA/contract,
- /opt/OCA/l10n-spain,
+ /opt/odoo/watchman,
+ /opt/odoo/OCA/contract,
+ /opt/odoo/OCA/l10n-spain,
  /opt/odoo/enterprise,
  /opt/odoo/odoo/addons,
  /opt/odoo/odoo/odoo/addons

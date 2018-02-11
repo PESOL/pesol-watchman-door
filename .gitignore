@@ -1,6 +1,8 @@
 db/*
 data/*
 odoo/log/*
+odoo/odoo/*
+odoo/enterprise/*
 !odoo/log/.log
 odoo/start_odoo.sh
 odoo/etc/odoo-server.conf
