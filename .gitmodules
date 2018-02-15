@@ -36,3 +36,8 @@
 	path = odoo/OCA/reporting-engine
 	url = git@github.com:OCA/reporting-engine.git
 	branch = 11.0
+
+[submodule "odoo/OCA/bank-payment"]
+	path = odoo/OCA/bank-payment
+	url = git@github.com:OCA/bank-payment.git
+	branch = 11.0
