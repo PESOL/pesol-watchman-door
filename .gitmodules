@@ -26,3 +26,8 @@
 	path = odoo/OCA/account-invoicing
 	url = git@github.com:OCA/account-invoicing.git
 	branch = 11.0
+
+[submodule "odoo/OCA/account-financial-tools"]
+	path = odoo/OCA/account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 11.0
