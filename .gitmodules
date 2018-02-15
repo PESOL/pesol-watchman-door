@@ -11,3 +11,8 @@
 	path = odoo/watchman
 	url = git@github.com:PESOL/watchman.git
 	branch = 11.0
+
+[submodule "odoo/OCA/partner-contact"]
+	path = odoo/OCA/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 11.0
