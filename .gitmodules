@@ -16,3 +16,28 @@
 	path = odoo/OCA/partner-contact
 	url = git@github.com:OCA/partner-contact.git
 	branch = 11.0
+
+[submodule "odoo/OCA/account-financial-reporting"]
+	path = odoo/OCA/account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 11.0
+
+[submodule "odoo/OCA/account-invoicing"]
+	path = odoo/OCA/account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 11.0
+
+[submodule "odoo/OCA/account-financial-tools"]
+	path = odoo/OCA/account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 11.0
+
+[submodule "odoo/OCA/reporting-engine"]
+	path = odoo/OCA/reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 11.0
+
+[submodule "odoo/OCA/bank-payment"]
+	path = odoo/OCA/bank-payment
+	url = git@github.com:OCA/bank-payment.git
+	branch = 11.0
