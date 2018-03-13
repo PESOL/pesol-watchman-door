@@ -7,6 +7,7 @@
 	path = odoo/OCA/l10n-spain
 	url = git@github.com:OCA/l10n-spain.git
 	branch = 11.0
+
 [submodule "odoo/watchman"]
 	path = odoo/watchman
 	url = git@github.com:PESOL/watchman.git
