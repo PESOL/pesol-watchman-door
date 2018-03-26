@@ -72,3 +72,8 @@
 	path = odoo/OCA/community-data-files
 	url = git@github.com:OCA/community-data-files.git
 	branch = 11.0
+
+[submodule "odoo/OCA/mis-builder"]
+	path = odoo/OCA/mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 11.0
