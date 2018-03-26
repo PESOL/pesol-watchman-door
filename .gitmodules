@@ -67,3 +67,18 @@
 	path = odoo/OCA/account-closing
 	url = git@github.com:OCA/account-closing.git
 	branch = 11.0
+
+[submodule "odoo/OCA/community-data-files"]
+	path = odoo/OCA/community-data-files
+	url = git@github.com:OCA/community-data-files.git
+	branch = 11.0
+
+[submodule "odoo/OCA/mis-builder"]
+	path = odoo/OCA/mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 11.0
+
+[submodule "odoo/OCA/account-payment"]
+	path = odoo/OCA/account-payment
+	url = git@github.com:OCA/account-payment.git
+	branch = 11.0
