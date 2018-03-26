@@ -57,3 +57,8 @@
 	path = odoo/OCA/community-data-files
 	url = git@github.com:OCA/community-data-files.git
 	branch = 11.0
+
+[submodule "odoo/OCA/server-ux"]
+	path = odoo/OCA/server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 11.0
