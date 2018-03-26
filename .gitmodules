@@ -67,3 +67,8 @@
 	path = odoo/OCA/account-closing
 	url = git@github.com:OCA/account-closing.git
 	branch = 11.0
+
+[submodule "odoo/OCA/community-data-files"]
+	path = odoo/OCA/community-data-files
+	url = git@github.com:OCA/community-data-files.git
+	branch = 11.0
