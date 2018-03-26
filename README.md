@@ -4,6 +4,7 @@
 
 git clone --recursive https://github.com/PESOL/pesol-watchman-door.git -b production_imp
 
+
 ## Actualizar un submodulos
 
 se puede descargar de forma normal
@@ -24,4 +25,5 @@ una vez que está descargado se puede ejecutar el submodule update
 
 ## Actualizar todos los submodulos
 
+git submodule update --init --recursive
 git submodule update --recursive --remote
