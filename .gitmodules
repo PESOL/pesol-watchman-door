@@ -82,3 +82,8 @@
 	path = odoo/OCA/account-payment
 	url = git@github.com:OCA/account-payment.git
 	branch = 11.0
+
+[submodule "odoo/OCA/web"]
+	path = odoo/OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 11.0
