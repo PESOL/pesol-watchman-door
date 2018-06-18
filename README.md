@@ -37,5 +37,5 @@ select date from account_invoice limit 1;
 select date_trunc('month',date)
 from account_invoice limit 1;
 
-select date_trunc('month',date)-'1month' ::interval 
+select date_trunc('month',date)-'1month' ::interval
 from account_invoice limit 1;
