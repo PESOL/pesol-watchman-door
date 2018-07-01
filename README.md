@@ -27,3 +27,15 @@ una vez que está descargado se puede ejecutar el submodule update
 
 git submodule update --init --recursive
 git submodule update --recursive --remote
+
+
+
+TEST
+
+select date from account_invoice limit 1;
+
+select date_trunc('month',date)
+from account_invoice limit 1;
+
+select date_trunc('month',date)-'1month' ::interval
+from account_invoice limit 1;

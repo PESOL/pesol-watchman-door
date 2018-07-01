@@ -1,7 +1,11 @@
 db/*
-data/*
+db
+odoo/data
+odoo/data/*
 odoo/log/*
+odoo/odoo
 odoo/odoo/*
+odoo/enterprise
 odoo/enterprise/*
 !odoo/log/.log
 odoo/start_odoo.sh

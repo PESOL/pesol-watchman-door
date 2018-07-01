@@ -1,2 +1,2 @@
 #!/bin/bash
-/opt/odoo/odoo/odoo-bin -c /opt/odoo/etc/odoo-server.conf
+/opt/odoo/odoo/odoo-bin -c /opt/odoo/etc/odoo-server.conf -u contract_element
