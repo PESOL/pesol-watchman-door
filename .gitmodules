@@ -97,3 +97,8 @@
 	path = odoo/OCA/queue
 	url = git@github.com:OCA/queue.git
 	branch = 11.0
+
+[submodule "odoo/OCA/connector"]
+	path = odoo/OCA/connector
+	url = git@github.com:OCA/connector.git
+	branch = 11.0
