@@ -92,3 +92,8 @@
 	path = odoo/OCA/project
 	url = git@github.com:OCA/project.git
 	branch = 11.0
+
+[submodule "odoo/OCA/queue"]
+	path = odoo/OCA/queue
+	url = git@github.com:OCA/queue.git
+	branch = 11.0
