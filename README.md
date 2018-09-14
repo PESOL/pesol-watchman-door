@@ -26,6 +26,7 @@ una vez que está descargado se puede ejecutar el submodule update
 ## Actualizar todos los submodulos
 
 git submodule update --init --recursive
+
 git submodule update --recursive --remote
 
 
